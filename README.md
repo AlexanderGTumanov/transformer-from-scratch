@@ -17,4 +17,11 @@ The project is organized into three directories. The `/notebooks` folder contain
 - Provides sampling utilities (temperature scaling and top-k filtering) for controlled text generation
 - Illustrates the model’s behavior by generating continuations for a selection of prompts
 
+## How to Use
+
+1. Clone this repository:
+   ```bash
+   git clone <https://github.com/AlexanderGTumanov/transformer-from-scratch>
+   cd transformer-from-scratch
+
 ---
